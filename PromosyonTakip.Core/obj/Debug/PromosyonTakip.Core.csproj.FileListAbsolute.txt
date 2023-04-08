@@ -1,0 +1,6 @@
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.Core\bin\Debug\PromosyonTakip.Core.dll
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.Core\bin\Debug\PromosyonTakip.Core.pdb
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.dll
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.pdb
