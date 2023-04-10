@@ -19,7 +19,7 @@ namespace PromosyonTakip.Core.businessLogicService
         public List<promosyonUrun> urunListeGetir()
         {
             liste = new List<promosyonUrun>();
-            cmd = new System.Data.SqlClient.SqlCommand("select top 42 * from promosyonUrun where kullanimDurum = 0 order by NEWID()");
+            cmd = new System.Data.SqlClient.SqlCommand("select top 36 * from promosyonUrun where kullanimDurum = 1 order by NEWID()");
             reader = db.liste(cmd);
             while (reader.Read())
             {
@@ -54,6 +54,14 @@ namespace PromosyonTakip.Core.businessLogicService
             reader.Close();
             db.baglantiDurumuAyarla();
             return data;
+        }
+
+        public int urunKullanildiIsaretle(int id)
+        {
+            cmd = new System.Data.SqlClient.SqlCommand("update promosyonUrun set kullanimDurum = @kullanimDurum where id = @id");
+            cmd.Parameters.Add("@id", SqlDbType.Int).Value = id;
+            cmd.Parameters.Add("@kullanimDurum", SqlDbType.Bit).Value = false;
+            return db.ekleDuzenleSil(cmd);
         }
     }
 }

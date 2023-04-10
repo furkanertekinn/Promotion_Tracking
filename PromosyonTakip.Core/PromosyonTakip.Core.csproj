@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="businessLogicService\baseServis.cs" />
+    <Compile Include="businessLogicService\katilimciPromosyonServis.cs" />
     <Compile Include="businessLogicService\potansiyelMusteriServis.cs" />
     <Compile Include="businessLogicService\promosyonUrunServis.cs" />
     <Compile Include="businessLogicService\sistemMagazaServis.cs" />

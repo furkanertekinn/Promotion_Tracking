@@ -13,3 +13,4 @@ C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.UI.Musteri\obj\Debug\
 C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.UI.Musteri\obj\Debug\PromosyonTakip.UI.Musteri.csproj.CopyComplete
 C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.UI.Musteri\obj\Debug\PromosyonTakip.UI.Musteri.exe
 C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.UI.Musteri\obj\Debug\PromosyonTakip.UI.Musteri.pdb
+C:\Users\Furkan\source\repos\PromosyonTakip\PromosyonTakip.UI.Musteri\obj\Debug\PromosyonTakip.UI.Musteri.hediyeGoster.resources
