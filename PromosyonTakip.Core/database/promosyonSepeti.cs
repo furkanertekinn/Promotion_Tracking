@@ -17,7 +17,7 @@ namespace PromosyonTakip.Core.database
         object returnObj;
         public promosyonSepeti()
         {
-            con = new SqlConnection("Server = DESKTOP-3J5F9CS\\SQLEXPRESS; Database = TelefonRehberi; Trusted_Connection = True;");
+            con = new SqlConnection("Server = DESKTOP-3J5F9CS\\SQLEXPRESS; Database = promosyonSepeti; Trusted_Connection = True;");
         }
 
         public void baglantiDurumuAyarla()
